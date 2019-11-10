@@ -599,6 +599,12 @@
 * L'anarchisme
 * Pour le communisme libertaire
 
+[Collectif Ironmarch]
+* libération mentale
+
+[Srdja Popovic]
+* Comment faire tomber un dictateur quand on est seul, tout petit, et sans armes
+
 - - -
 
 [Histoire, nazisme]
