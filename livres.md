@@ -1,4 +1,4 @@
-[Religion]
+## [Religion] ##
 
 [Anonyme]
 * La Bible
@@ -7,7 +7,7 @@
 
 - - -
 
-[Romans, littérature, un peu de politique et d'histoire]
+## [Romans, littérature, un peu de politique et d'histoire] ##
 
 [Maurras Charles]
 * Si le coup de force est possible
@@ -177,7 +177,7 @@
 
 - - -
 
-[Philosophie]
+## [Philosophie] ##
 
 [Friedrich Nietzsche]
 * Oeuvres (tome 1 et 2)
@@ -323,7 +323,7 @@
 
 - - -
 
-[Poltique, histoire, sociologie]
+## [Poltique, histoire, sociologie] ##
 
 [Guy Debord]
 * La Société du Spectacle
@@ -485,7 +485,7 @@
 
 - - -
 
-[Biologie, astrophysique, vulgarisation]
+## [Biologie, astrophysique, vulgarisation] ##
 
 [Charles Darwin]
 * L'Origine des espèces 
@@ -514,7 +514,7 @@
 
 - - -
 
-[Royalisme, histoire]
+## [Royalisme, histoire] ##
 
 [Steve Brastel]
 * L'imposture Republicaine - Manifeste Royaliste
@@ -540,7 +540,7 @@
 [Michel Mohrt]
 * Tombeau de La Rouërie 
 
-[Henri d`Orléans]
+[Henri d'Orléans]
 * Mémoires d'exil et de combats
 
 [Philippe Conrad]
@@ -548,7 +548,7 @@
 
 - - -
 
-[Marxisme, Chavisme]
+## [Marxisme, Chavisme] ##
 
 [Karl Marx]
 * Manifeste du parti communiste
@@ -563,9 +563,13 @@
 * Hugo Chávez – Anthologie des discours
 * Hugo Chávez – La Patrie au cœur
 
+[Mao Tse-Toung]
+* Le Petit Livre rouge
+* Mao : stratège révolutionnaire
+
 - - -
 
-[Antilibéralisme, anarchisme]
+## [Antilibéralisme, anarchisme] ##
 
 [Mikhail Bakounine]
 * Dieu et l'État
@@ -607,7 +611,7 @@
 
 - - -
 
-[Histoire, nazisme]
+## [Histoire, nazisme] ##
 
 [Adolf Hitler]
 * Le Testament politique d'Hitler 
@@ -618,7 +622,7 @@
 
 - - -
 
-[Hacking, culture libre]
+## [Hacking, culture libre] ##
 
 [Geoffrey Dorne]
 * Hacker citizen
@@ -668,3 +672,4 @@
 [Jérôme Thorel]
 * Attentifs ensemble
 * Identification et surveillance des individus (Quels enjeux pour nos démocraties)
+
